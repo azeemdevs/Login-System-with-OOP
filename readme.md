@@ -8,6 +8,8 @@
 
 - import the sql file into your database and match the credentials with the project credentials and thats it.
 
+- For Default Style I use mvp.css cdn
+
 ## Created by:
 
 (mailto: connectingazeem@gmail.com)
